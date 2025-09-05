@@ -19,4 +19,4 @@ Como usar
     Digite o peso e a altura que deseja calcular.
     Clique no botão correspondente para ver o resultado.
 
-Anthony Freitas - Todos os direitos reservados
+Igor Guterres - Todos os direitos reservados
