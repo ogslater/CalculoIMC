@@ -1,8 +1,5 @@
-/* Fundo azul */
+
 body {
-    /* background-color: #2a72d4;*/
-     /*background: linear-gradient(rgba(255,255,255,0.8),rgba(255,255,255,0.8)),url('imc.png'); Imagem de fundo transparente */
-    /*background:url('imagem.png') */
     background: linear-gradient(to bottom right, hwb(240 47% 42%), rgb(0, 0, 0)) ;
     background-size: cover;
     height: 100vh;
@@ -45,4 +42,5 @@ footer {
     margin-top: 30px;
     font-size: 14px;
     font-style: italic;
+
 }
